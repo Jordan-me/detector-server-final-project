@@ -3,10 +3,9 @@
 /ReactiveWebCrawlerService/build/resources/main/
 /PredictionResultService/build/
 /TrainModelService/venv/
+/TrainModelService/scripts/lstm_and_cnn/classify_sentences.h5
 __pycache__/
 /build/
 /.gradle/
 .idea/
 .idea/*
-/TrainModelService/scripts/output/models/fine_tuned_bert_model.pth
-/TrainModelService/scripts/lstm_and_cnn/classify_sentences.h5
